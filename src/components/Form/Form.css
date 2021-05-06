@@ -1,0 +1,16 @@
+.employee__form {
+  max-width: 500px;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+.employee__input {
+  margin-top: 20px !important;
+}
+
+@media (max-width: 500px) {
+  .employee__form {
+    margin: 20px auto;
+  }
+}

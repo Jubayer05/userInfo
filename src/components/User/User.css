@@ -1,0 +1,41 @@
+.user {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.user__single {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.user__avatar {
+  margin: 0 auto 10px;
+}
+
+.user_name {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.user__text {
+  text-align: center;
+  color: rgb(143, 143, 143);
+  margin-top: 10px;
+}
+
+.user-btn {
+  margin-top: 10px !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.userData__container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+@media (max-width: 960px) {
+}

@@ -1,0 +1,5 @@
+@media (max-width: 960px) {
+  .dashboard__grid {
+    margin: 0 auto;
+  }
+}
